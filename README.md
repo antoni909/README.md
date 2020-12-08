@@ -5,8 +5,6 @@
 2. - Maximum Effort
 3. - Complacency kills
 4. - ~~Drink Alcohol~~
-## Nature Pic
-![Nature Pic](https://www.pexels.com/photo/mountains-covered-with-snow-1785493/)
 
 ## _For more on Growth Mindset:_
 [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
