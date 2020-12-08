@@ -8,6 +8,8 @@
 2. - Maximum Effort
 3. - Complacency kills
 4. - ~~abcdefg~~
+## Nature Pic
+![pexels-photo-1785493](https://user-images.githubusercontent.com/71913098/101452693-f179fc80-38e2-11eb-8433-2db9fa643bcd.jpg)
 
 ## _For more on Growth Mindset:_
 [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
