@@ -19,4 +19,4 @@
 [ReflectionDayOne](/ReflectionDayOne.md)
 
 ## **What I learned in Class Day 02**
-[ReflectionDayTwo](/reflectionDayTwon.md)
+[ReflectionDayTwo](/Read02.md)
