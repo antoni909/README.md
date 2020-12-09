@@ -18,4 +18,4 @@
 ## **What I learned in Class**
 [Reflections](/Reflections.md)
 
-[Reflection](/reflections1.md)
+[Reflections](/reflection1.md)
