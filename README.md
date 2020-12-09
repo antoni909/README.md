@@ -15,5 +15,8 @@
 ## _For more on Growth Mindset:_
 [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
 
-## **What I learned in Class**
+## **What I learned in Class Day 01**
 [ReflectionDayOne](/ReflectionDayOne.md)
+
+## **What I learned in Class Day 02**
+[ReflectionDayTwo](/reflectionDayTwon.md)
