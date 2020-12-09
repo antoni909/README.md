@@ -1,5 +1,4 @@
-## **This page is a reflection and discussion on Text Editor Types and why it is important for Software Developers to be thoughtful about their selection of what
-they use to write code**
+## **This page is a reflection and discussion on Text Editor Types and why it is important for Software Developers to be thoughtful about their selection of what they use to write code**
 
 *A text editor is software that allows the user to write and edit text that can be used to build a website. According to the reading there are some major features that need to be looked into when picking what is best for the user. These features are as follows:*
 
