@@ -20,3 +20,6 @@
 
 ## **What I learned in Class Day 02**
 [ReflectionDayTwo](/Read02.md)
+
+## **What I learned in Class Day 02**
+[ReflectionDayThree](/Read03.md)
