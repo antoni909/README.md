@@ -17,5 +17,3 @@
 
 ## **What I learned in Class**
 [Reflections](/Reflections.md)
-
-[Reflections](/README.md/reflection1.md)
