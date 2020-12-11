@@ -2,6 +2,8 @@
 
 ## In chapter 18 of the reading *"HTML&CSS design and build websites"*, entitled *"Process and Design"*, Duckett explains what would be an ideal approach to start the beginnings of a website, the importance of understanding they type of individuals you should be trying to reach and how to efficiently probe the viewers attention and how to tap into the appeal of said viewers. 
 
+## In chapter 8 of the reading we learned about different versions of HTML and how to identify and group elements together.
+
 ## To briefely list the process, it can be listed chronologically as follows:
 
 1. What needs to be on your site:
