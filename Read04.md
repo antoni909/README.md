@@ -1,0 +1,1 @@
+## **This page is a response to the reading assigned for Day Four of Code102**
