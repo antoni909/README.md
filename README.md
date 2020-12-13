@@ -10,9 +10,9 @@
 
 [What I learned in Class Day 04](/Read04.md)
 
-[What I learned in Class Day 04](/Read05.md)
+[What I learned in Class Day 05](/Read05.md)
 
-[What I learned in Class Day 04](/Read06.md)
+[What I learned in Class Day 06](/Read06.md)
 
 
 ## Nature Pic :D
