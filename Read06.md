@@ -1,0 +1,5 @@
+# This is a response to the assigned reading for this 2 part assignment class 06 of CF 102 course
+
+## Having read pages 43 - 69 I have learned that case sensitivity and attention to detail are the most important aspects of working with multiple files, folders, tools (Git, GitHub, VS code editor, and most importantly GOOGLE the living jesus out of all my errors and mistakes that I make). Mistakes are expected and bound to happen and the best remedy is establishing a consistent work flow and simplicity
+
+## The biggest problem I have had is to try and make the javascript run like it is supposed to run on the live server on VS code which I will continue to work on until I can figure out why it will not execute properly!!! Mistakes were made left and right buy I am eager and excited to find solutions to all these unforseen problems

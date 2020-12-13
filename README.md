@@ -12,5 +12,8 @@
 
 [What I learned in Class Day 04](/Read05.md)
 
+[What I learned in Class Day 04](/Read06.md)
+
+
 ## Nature Pic :D
 ![pexels-photo-1785493](https://user-images.githubusercontent.com/71913098/101452693-f179fc80-38e2-11eb-8433-2db9fa643bcd.jpg)
