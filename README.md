@@ -51,5 +51,6 @@ CF 201 Reading Assignment 01[Assignment 01](/CF201/Assignment01.md)
 [What I learned in Class Day 07](/CF102/Read07.md)
 
 [What I learned in Class Day 08](/CF102/read08.md)
+
 ## Nature Pic :D
 ![pexels-photo-1785493](https://user-images.githubusercontent.com/71913098/101452693-f179fc80-38e2-11eb-8433-2db9fa643bcd.jpg)
