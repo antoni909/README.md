@@ -19,22 +19,22 @@
 
 ## Table of Contents for CF 102n
 
-[What I learned in Class Day 01](/Read01.md)
+[What I learned in Class Day 01](/CF102/Read01.md)
 
-[What I learned in Class Day 02](/Read02.md)
+[What I learned in Class Day 02](/CF102/Read02.md)
 
-[What I learned in Class Day 03](/Read03.md)
+[What I learned in Class Day 03](/CF102/Read03.md)
 
-[What I learned in Class Day 04](/Read04.md)
+[What I learned in Class Day 04](/CF102/Read04.md)
 
-[What I learned in Class Day 05](/Read05.md)
+[What I learned in Class Day 05](/CF102/Read05.md)
 
-[What I learned in Class Day 06](/Read06.md)
+[What I learned in Class Day 06](/CF102/Read06.md)
 
-[What I learned in Class Day 06b](/Read06b.md)
+[What I learned in Class Day 06b](/CF102/Read06b.md)
 
-[What I learned in Class Day 07](/Read07.md)
+[What I learned in Class Day 07](/CF102/Read07.md)
 
-[What I learned in Class Day 08](/read08.md)
+[What I learned in Class Day 08](/CF102/read08.md)
 ## Nature Pic :D
 ![pexels-photo-1785493](https://user-images.githubusercontent.com/71913098/101452693-f179fc80-38e2-11eb-8433-2db9fa643bcd.jpg)
