@@ -2,35 +2,35 @@
 
 ## Table of Contents for CF 201n26
 
-[CF 201 Reading Assignment 01]()
+CF 201 Reading Assignment 01[Assignment 01](/CF201/Assignment01.md)
 
-[CF 201 Reading Assignment 02]()
+[CF 201 Reading Assignment 02](#)
 
-[CF 201 Reading Assignment 03]()
+[CF 201 Reading Assignment 03](#)
 
-[CF 201 Reading Assignment 04]()
+[CF 201 Reading Assignment 04](#)
 
-[CF 201 Reading Assignment 05]()
+[CF 201 Reading Assignment 05](#)
 
-[CF 201 Reading Assignment 06]()
+[CF 201 Reading Assignment 06](#)
 
-[CF 201 Reading Assignment 07]()
+[CF 201 Reading Assignment 07](#)
 
-[CF 201 Reading Assignment 08]()
+[CF 201 Reading Assignment 08](#)
 
-[CF 201 Reading Assignment 09]()
+[CF 201 Reading Assignment 09](#)
 
-[CF 201 Reading Assignment 10]()
+[CF 201 Reading Assignment 10](#)
 
-[CF 201 Reading Assignment 11]()
+[CF 201 Reading Assignment 11](#)
 
-[CF 201 Reading Assignment 12]()
+[CF 201 Reading Assignment 12](#)
 
-[CF 201 Reading Assignment 13]()
+[CF 201 Reading Assignment 13](#)
 
-[CF 201 Reading Assignment 14]()
+[CF 201 Reading Assignment 14](#)
 
-[CF 201 Reading Assignment 15]()
+[CF 201 Reading Assignment 15](#)
 
 ## Table of Contents for CF 102n
 
