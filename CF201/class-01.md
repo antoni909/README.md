@@ -97,4 +97,31 @@
         - similarity
     1. Design the site navigation
 
-## JavaScript Chapter 1
+## JS Chapter 1: “The ABC of Programming”
+
+### Summary Type: Outline Form
+
+    1. What is a script and how do I create 1?
+        -   Script is a series of instructions that a computer can follow to achieve a GOAL.
+            - There are 3 steps to achieving a script that will achieve a goal
+                1.  (TASK) Define the Goal: this is to say DEFINE THE TASK YOU WANT TO ACHIEVE
+                1.  (STEPS) Design the Script: split the goal into a SERIES OF TASKS
+                1.  Code each step: The fun part for last
+    2.  How do computers fit in with the world around them?
+        -   Simply, computers create models of the world around them using DATA
+        -   By models, they mean that computers create OBJECTS to represent physical things
+        -   In turn, there are Object Types and these Objects have properties, methods, and events
+            -   Object Property are the characteristics of a model and they have a NAME and VALUE
+            -   Object Method represents things that can be done with said objects and they can retrieve or update the value of an objects properties
+            -   Object Event is exactly what it sounds like and its the computers way of saying something has occured 
+    3.  Web Browsers are Programs built using objects and that object (Document Object) represents and HTML Page which allows you to acces and change waht content users can see and interact with
+        -   How does a broser see a Web Page?
+        -   In order to understand this, you must understand how a browser interprets the HTML code and applies styling to it
+            1.  Recieve a page as a HTML Code
+            2.  Create a Model of the Page and Store it in Memory
+            3.  Use a rendering engine to the page on the Screen
+    4.  How do you use Objets and Methods?
+        -   Using the following as an example, document.write('Good Afternoon'); ,
+            -   document represents the object
+            -   the '.' represents the member operator and is used to access the members of the document object
+            -   the method is represented by write() in the code above, it allows new content to be written into the page where the script element is found and the content inside hte paranthesis is the paramater'
