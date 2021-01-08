@@ -15,3 +15,27 @@
         -   Introduction
         -   JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
+## To Summarize the information I will create a quiz for each chapter and provide an outline of what information I deemed most important during the reading. 
+
+## HTML Chapter 1
+    - Quiz Questions
+        1. Elements are usualy made up of 2 ___ an opening ___ and a closing ____
+        1. HTML ____ tells the browser something about the information that sits between its opening and closing ____ 
+        1. Even though the terms element and tag are used interchangeably, how is an element more strictly defined?
+        1. An ___ of an HTML Element is made up of 2 parts, the ____ and the ____ which are seperated by an equals sign.
+        1. This part of the Attribute is the information or setting for the attribute and should be placed in double quotes
+        1. This particular part of the Attribute indicate what kind of extra information you are supplying about the elements content and should be written in lower case.
+        1. Everything inside this particular Element is shown inside the main browser window
+        1. The contents of the ____ Element are either shown at the top of the browser or the tab for that page
+
+    - Quiz Answers
+        1. Begore the body Element you will see the ____ Element and contains information about the page and you will usually find the ____ Element inside 
+        1. tag
+        1. HTML Element, tags
+        1. An element comprises the openind tag and the closing tag and any content that lies between them
+        1. Attribute, name , value
+        1. value
+        1. name
+        1. Body Element 
+        1. Head Element
+        1. Title Element

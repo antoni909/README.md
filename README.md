@@ -2,7 +2,7 @@
 
 ## Table of Contents for CF 201n26
 
-CF 201 Reading Assignment 01[Assignment 01](/CF201/Assignment01.md)
+CF 201 Reading Assignment 01[Class 01](/CF201/class-01.md)
 
 [CF 201 Reading Assignment 02](#)
 
