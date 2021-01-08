@@ -64,3 +64,37 @@
 [click here to be redirected to a sample HTML5 page](/CF201/sample.html)
 
 ### In HTML 5, instead of using multiple div elements like in the tradional older versions, you can use new elements that provide clearer code
+
+## HTML Chapter 18: Process and Design
+
+## Summary Type: Barebones Outline of the important concepts in the reading
+
+1. What needs to be on your site:
+    1. know the target audience
+    1. the purpose your website will serve to the users
+    1. what will the users gain from visiting your website
+    1. what subject matter knowledge will the users need if any?
+    1. probe how often users traffic your website
+1. Organize the information to be displayed on your site:
+    1. create a site map
+    1. create a wire frame
+        - Note: [this is an online tool for creating wireframes](https://gomockingbird.com/projects/1we38mv/4gXVnC)
+    1. Implement website designs based on the following:
+        - content
+        - prioritizations
+        - organizations
+        - visual hierarchy
+            - size
+            - color
+            - style
+        - grouping 
+            - proximity
+            - closure
+            -continuance 
+            - white space
+            - color
+            - borders
+        - similarity
+    1. Design the site navigation
+
+## JavaScript Chapter 1
