@@ -1,8 +1,8 @@
-# Class 01 
+# Class 01
 
-## Reading Assignment is as follows: 
+## Reading Assignment is as follows
 
-### For your assignment, go through these resources, and create a markdown file titled class-01.md in your reading notes repo that summarizes the topics. Then ACP your master branch to create a rendered web page on github pages. Here are the chapters to read/skim before Class 1:
+### For your assignment, go through these resources, and create a markdown file titled class-01.md in your reading notes repo that summarizes the topics. Then ACP your master branch to create a rendered web page on github pages. Here are the chapters to read/skim before Class 1
 
     1.   From the Duckett HTML book:
         -   Introduction (pp.2-11)
@@ -15,13 +15,13 @@
         -   Introduction
         -   JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
-## To Summarize the information I will create a quiz for each chapter and provide an outline of what information I deemed most important during the reading. 
+## To Summarize the information I will create a quiz for each chapter and provide an outline of what information I deemed most important during the reading 
 
-## HTML Chapter 1
+## HTML Chapter 1: Structure
 
 ## Summary Type: Paraphrasing Chapters
 
-### HTML describes the structure of pages by using containers called Elements that store content. Elements and tags have attributes that provide additional information about the contents of said Element. HTML stands for Hypertext Markup Language and it allows you to annotate the document. Elements are composed of an opening tage + content + closing tag. Attributes are added inside the opening tag and provide extra information about an element. An attribute consists of a name and a value. The name addresses the type of extra informaiton you are supplying and the value refers to the information or setting for the attribute. 
+### HTML describes the structure of pages by using containers called Elements that store content. Elements and tags have attributes that provide additional information about the contents of said Element. HTML stands for Hypertext Markup Language and it allows you to annotate the document. Elements are composed of an opening tage + content + closing tag. Attributes are added inside the opening tag and provide extra information about an element. An attribute consists of a name and a value. The name addresses the type of extra informaiton you are supplying and the value refers to the information or setting for the attribute
 
     - Quiz Questions
         1. What does HTML stand for and what is a markup language?
@@ -46,3 +46,13 @@
         1. Body Element 
         1. Head Element
         1. Title Element
+
+## HTML Chapter 8: Extra Markup
+
+## Summary Type: Paraphrasing Chapter 8
+
+### Because there have been several verions of HTML, it is best to start an HTML document with the doctype declaration <!DOCTYPE html> (used for HTML 5). You can also create comments in your HTML doc using t<!--comment here--> which will only be visible in the code but not in the user browser. An id attribute is called a global attribute because it can be used on all elements. It is used to uniquely identify one element amongst all others and allows you to target it for special styling for CSS or interactivity with JavaScript. A class attribute is also a global attribute available to all elements. The idea is that instead of targetting a single element you can group together type/class of elements that require special attention for styling or simply because the chosen elements are more special than others on the page
+
+### There is a subtle and important distinction between In-line and Block Elements. Block elements will always form a new code line while In-Line Elements will always appear to continue on the same code line with neighboring elements. Examples of block elements are h1, p, ul, and li. Examples of inline elements are a, b, em, and img. Div and Span elements are used to "group" together block and inline elements. The div element allows you to group inline and block elements in one block-level box. An example of its use is if you want to create a div for all the elements for the header of a site or to contain comments from users. The span element is like an inline element and is used to contain a section of text where there is no other suitable element to differentiate it from surrounding text or contain a number of inline elements
+
+### The meta element will always be found inside the head element and will contain information about the page. It is considered an empty element because it does not have a closing tag and uses attributes to carry information. Some commonly named values are description, keywords, robots, author, pragma and expires. It is also important to note that HTML has special reserved characters such us <>, &, ", etc
