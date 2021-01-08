@@ -56,3 +56,11 @@
 ### There is a subtle and important distinction between In-line and Block Elements. Block elements will always form a new code line while In-Line Elements will always appear to continue on the same code line with neighboring elements. Examples of block elements are h1, p, ul, and li. Examples of inline elements are a, b, em, and img. Div and Span elements are used to "group" together block and inline elements. The div element allows you to group inline and block elements in one block-level box. An example of its use is if you want to create a div for all the elements for the header of a site or to contain comments from users. The span element is like an inline element and is used to contain a section of text where there is no other suitable element to differentiate it from surrounding text or contain a number of inline elements
 
 ### The meta element will always be found inside the head element and will contain information about the page. It is considered an empty element because it does not have a closing tag and uses attributes to carry information. Some commonly named values are description, keywords, robots, author, pragma and expires. It is also important to note that HTML has special reserved characters such us <>, &, ", etc
+
+## HTML Chapter 17: HTML 5 Layout
+
+## Summary Type: Link to HTML Doc with Sample HTML outline with Comments on each element being used
+
+[click here to be redirected to a sample HTML5 page](/CF201/sample.html)
+
+### In HTML 5, instead of using multiple div elements like in the tradional older versions, you can use new elements that provide clearer code
