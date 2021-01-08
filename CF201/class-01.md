@@ -18,7 +18,13 @@
 ## To Summarize the information I will create a quiz for each chapter and provide an outline of what information I deemed most important during the reading. 
 
 ## HTML Chapter 1
+
+## Summary Type: Paraphrasing Chapters
+
+### HTML describes the structure of pages by using containers called Elements that store content. Elements and tags have attributes that provide additional information about the contents of said Element. HTML stands for Hypertext Markup Language and it allows you to annotate the document. Elements are composed of an opening tage + content + closing tag. Attributes are added inside the opening tag and provide extra information about an element. An attribute consists of a name and a value. The name addresses the type of extra informaiton you are supplying and the value refers to the information or setting for the attribute. 
+
     - Quiz Questions
+        1. What does HTML stand for and what is a markup language?
         1. Elements are usualy made up of 2 ___ an opening ___ and a closing ____
         1. HTML ____ tells the browser something about the information that sits between its opening and closing ____ 
         1. Even though the terms element and tag are used interchangeably, how is an element more strictly defined?
@@ -29,6 +35,7 @@
         1. The contents of the ____ Element are either shown at the top of the browser or the tab for that page
 
     - Quiz Answers
+        1. Hypertext Markup Language, markup means you are allowed to annotate text and in turn annotations allows you to provide additional meaning to the contents of the document.
         1. Begore the body Element you will see the ____ Element and contains information about the page and you will usually find the ____ Element inside 
         1. tag
         1. HTML Element, tags
