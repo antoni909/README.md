@@ -125,3 +125,5 @@
             -   document represents the object
             -   the '.' represents the member operator and is used to access the members of the document object
             -   the method is represented by write() in the code above, it allows new content to be written into the page where the script element is found and the content inside hte paranthesis is the paramater'
+
+click on the following link to head back to the [homepage](../README.md)
