@@ -4,7 +4,7 @@
 
 CF 201 Reading Assignment 01[Class 01](/CF201/class-01.md)
 
-[CF 201 Reading Assignment 02](#)
+CF 201 Reading Assignment 02[Class 02](/CF201/class-02.md)
 
 [CF 201 Reading Assignment 03](#)
 
