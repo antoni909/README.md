@@ -1,5 +1,7 @@
 # Class 02
 
+## If you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
+
 ## Reading Assignment is as follows
 
 ## For your assignment, go through these resources, and create a markdown file titled class-02.md in your reading notes repo that summarizes the topics. Then ACP your master branch to create a rendered web page on github pages
@@ -216,3 +218,5 @@ click on the following link to head back to the [homepage](../README.md)
         - ++ (increment) adds ONE to the current number
         - -- (decrement) subtracts ONE to the current numeber
         - % (modulus) devides 2 values and returns the remainder
+
+click on the following link to head back to the [homepage](../README.md)
