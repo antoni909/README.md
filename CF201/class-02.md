@@ -110,3 +110,40 @@ This link is a reading on how git message conventions and how to submit[git mess
                     color: blue !important;}
 click on the following link to head back to the [homepage](../README.md)
 
+## JavaScript Chapter 04: Decisions and Loops
+
+## Summary Type: Notes in Outline form
+
+## The main objectives of to understand evaluations, decisions(conditional statements) and loops in JavaScript. There are 2 components to a Decision
+
+    1. Expression is evaluated, returning a value
+    2. Conditional Statement says what to do in give situation
+
+### Comparison Operators: Evaluating Conditions
+
+    - You can evaluate a situation by comparing one value to what you migh expect to get, resulting in a boolean value of True or False
+        - Comparison Operators
+            - == "is equal to", compares 2 values (numbers, strings, booleans) to see if they are the SAME
+            - === "strict equal to", compare 2 values to check that both the data type and value are the same
+            - != "is not equal to", compares 2 values(numbers, strings, booleans) to see if they are NOT the same
+            - !== "strict not equalt to", compares 2 values to check that both that data type and value are NOT the same
+        - Typical Syntax
+            - Example:            
+              ( Operand | comparison operator | Operand) 
+              (    A              ===             B    )
+        - Logical Operators
+            - Allow you to compare the results of more than one comparison operator
+                - && "Logical And", tests more than 1 condition. 
+                    - If both expressions eval to T the expressions returns T
+                    - If One espression evals to F then the expression returns F
+                - || "Logical Or", tests at least one condition
+                    - If either expression evals to T then expression returns T
+                    - If both eval to F then expression returns F
+                - ! "Logical Not", takes single boolean val and inverts it
+                    - Example:
+                        !(2 less than 1) returns T
+    - If Statements
+        - evaluate a condition, if the condition evals to T, any statements in the subsequent code block are executed. If the condition resolves to F, statements in that code block will NOT run.
+    - If...else Statements
+        - if it resolves to T, the first code block is executed, if F teh second code block is run instead.
+        - code blocks are contained within curly braces: { code block}
