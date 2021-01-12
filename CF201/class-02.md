@@ -147,3 +147,72 @@ click on the following link to head back to the [homepage](../README.md)
     - If...else Statements
         - if it resolves to T, the first code block is executed, if F teh second code block is run instead.
         - code blocks are contained within curly braces: { code block}
+
+## JavaScript Chapter 2: “Basic JavaScript Instructions.”
+
+## Summary Type: Notes Outline Form
+
+### This chapter covers the language of JavaScript (syntax and conventions) and how to create scripts. Scripts are a series of instructions that a computer can follow one by one. Each indvidual instruction/step is a statement
+
+    - // (Single Line Comments), explain what your code does and can be used to comment in or comment out code.
+    - /* content */ (Multi-Line Comment), write a comment that stretches over more than one line.
+    - How to declare a Variable (acts as storage for data). Example:  
+        var x;  
+    here the variable x has been declared but no value assigned
+    to assign use the assign operator (=) as follows:
+        var x = 3;
+    - Data Types:
+        - Nemeric: positive, negative and decimal numbers
+        - String: letters and characters
+        - Boolean: T/F
+    - Rules for givin a Variable a Name
+        1. Must begin with letter, dollar Sign or Underscore, and MUST NOT start with a number
+        1. MUST NOT use a dash or period in the name
+        1. CANNOT use reserved keywords
+        1. Case Sensative
+        1. Must describe the type of information being stored
+        1. use Camel Case for naming convention
+    - Array: Special type of Variable that stores a list of values and used to create a List or Set of values related to each other. They can store strings, numbers, and boolean values. 
+        - To create one:
+
+           var x = [a, b, c];
+           
+           note that values are inside square brackets, seperated by a comman and are based on Zero-Index where in the array list 
+
+                    index 0 = value a
+                    index 1 = value b
+                    index 2 = value c
+
+        - To access items in the array list use the following:
+            
+            var getItem = x[0];
+
+            here you create a new var that is assigned that first item in the array
+
+        - The Length Property of an Array holds the number of items in the Array and can be called using the following:
+
+        var numItems = x.length;
+
+        - Accessing and Changin Values in an Array
+            - Again, To access an item in the array:
+          
+              var getItem = x[1]
+        
+            - To CHANGE an existing value inside the Array:
+          
+              x[1] = z;
+
+              the new array would be:
+
+              var x = [a, z, c];
+
+              you change the value of an item in an array by selecting it and assigning it a new value just as you would any otehr var
+
+    - Arithmetic Operators are mathematical operators (characters) reserved for use with numbers in JavaScript.
+        - + (addition)
+        - - (subtraction)
+        - / (division)
+        - * (multiplication)
+        - ++ (increment) adds ONE to the current number
+        - -- (decrement) subtracts ONE to the current numeber
+        - % (modulus) devides 2 values and returns the remainder
