@@ -75,7 +75,7 @@ switch (expression) {
     |boolean    |true/false           |
     |null       |empty value          |
     |undefined  |var declare w/ no val|
-    
+
   - NaN is a val that is counted as a number when a number is expected but not returned, ex: 'five'/5 returns NaN
   - Truth/Falsy Values: EVERY value in JS can be treated as if it were T/F. 
     - Falsy Values are treated as if False or the number 0.
@@ -113,3 +113,18 @@ switch (expression) {
 ## Do you want to exit to the homepage? click on the following link to head back to the [homepage](../README.md)
 
 ## OR do you want to return to the top section? [top of page](#blank)
+
+## HTML Chapter 03: Lists
+
+## Summary Type:  Notes in Outline Form
+
+### There are 3 types of lists: ordered, unordered, and definition lists. Ordered lists use numbers and unordered lists use bullets. You can also create nested lists inside li elements. Definition lists are hierarchically structured as follows
+
+<dl>
+  <dt>
+    <dd></dd>
+  </dt>
+</dl>
+
+### dl is definitions list and contains dt (definition term) and dd (definitnion)
+
