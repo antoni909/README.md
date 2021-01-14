@@ -107,3 +107,5 @@ switch (expression) {
   - same as the while loop except that it will always run the code block at least once even if it evals to false
 
 ## Do you want to exit to the homepage? click on the following link to head back to the [homepage](../README.md)
+
+## OR do you want to return to the top section? [top of page](#)
