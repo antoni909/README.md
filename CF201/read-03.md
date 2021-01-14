@@ -67,6 +67,7 @@ switch (expression) {
   - Weak Typing is used by JavaScript because data values for data types are allowed to change
   - As a result, to check whether data and value types match use strict operators such as: ===, !==, ==, !=
   - The following are data types and their purpose:
+
     |Data Type  |Purpose              |
     |   :---:   |   :---:             |
     |string     |text                 |
@@ -74,9 +75,11 @@ switch (expression) {
     |boolean    |true/false           |
     |null       |empty value          |
     |undefined  |var declare w/ no val|
+    
   - NaN is a val that is counted as a number when a number is expected but not returned, ex: 'five'/5 returns NaN
   - Truth/Falsy Values: EVERY value in JS can be treated as if it were T/F. 
     - Falsy Values are treated as if False or the number 0.
+
     |Value      |Description              |
     |   :---:   |          :---:          |
     |false      |boolean false val        |
@@ -84,6 +87,7 @@ switch (expression) {
     |''         |empty string             |
     |1/'5'      |NaN                      |
     |var x;     |var declared w/ no val   |
+
     - Truthy Values are everything not considered falsy, can also be treated as the number 1.
     - Logic Operators are process left to right and stop as soon as they have a result, however the return a value that stopped the processing and the value was treated as truthy/falsy eventhough it was not a Boolean.
 
@@ -108,4 +112,4 @@ switch (expression) {
 
 ## Do you want to exit to the homepage? click on the following link to head back to the [homepage](../README.md)
 
-## OR do you want to return to the top section? [top of page](#)
+## OR do you want to return to the top section? [top of page](#blank)
