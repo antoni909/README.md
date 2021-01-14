@@ -1,4 +1,4 @@
-# Class 02
+# Read 02
 
 ## If you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
 

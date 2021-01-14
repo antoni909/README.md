@@ -1,4 +1,4 @@
-# Class 01
+# Reading 01
 
 ## Reading Assignment is as follows
 
