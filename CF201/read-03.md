@@ -118,13 +118,76 @@ switch (expression) {
 
 ## Summary Type:  Notes in Outline Form
 
-### There are 3 types of lists: ordered, unordered, and definition lists. Ordered lists use numbers and unordered lists use bullets. You can also create nested lists inside li elements. Definition lists are hierarchically structured as follows
-
-<dl>
-  <dt>
-    <dd></dd>
-  </dt>
-</dl>
+### There are 3 types of lists: ordered, unordered, and definition lists. Ordered lists use numbers and unordered lists use bullets. You can also create nested lists inside li elements. Definition lists are hierarchically structured
 
 ### dl is definitions list and contains dt (definition term) and dd (definitnion)
 
+## HTML Chapter 13: Boxes
+
+## Summary-Type:  Notes in Outline Form
+
+## This chapters covers the following topics on how to set properties that affect/control the appearence of 'html boxes'
+
+- Control the dimensions of boxes
+- Create borders around boxes
+- Set margins and padding for boxes
+- Show/hide boxes
+
+## Border, Margin and Padding
+
+1. Border will seperate the edge of one box from another
+  1. border-width (values: thin, medium, thick) cannot use percentages only pixels and is used to control the width of the border
+  1. border-top-width,border-right-width, border-bottom-width,border-left-width can all be condensed respectively into border-width property above, appearing in clockwise order
+  1. border-style (values: solid, dotted, dashed, double, groove, ridge, inset, outset, hidden/none,)
+  1. border-color (values: rgb, hex codes, css color name)
+    - note that there is border-top-color, border-right-color, border-bottom-color, border-left-color and can be summarized by four values in the border-color property in clockwise(top,right,bottom,left)order.Example:  border-color: red green blue indigo;
+  1. border: width style color;  is a shorthand border property
+
+- Margins sit outside the border, creates a gap between the border of adjacent boxes
+  1. margin (values: pixel, percentage, ems)
+    - Note: if width is specified for a box, margin is added onto the width of the box
+    - Shorthand: margin: margin-top margin-right margin-bottom margin-left;
+
+- Padding is the space between the content and the border, increases the readability of the content.
+  1. padding (values: pixel, percentage, ems) allows you to specify how much space appears between content of element and border.
+    - Note: if width is specified for a box, padding is added onto the width of the box
+    - Note: padding is NOT inherited to child elemnts and must be specified for every element
+    - Shorthand: padding: padding-top padding-right padding-bottom padding-left;
+
+## Chapter Outline
+
+1. Box Dimensions
+  1. Pixels: most popular, allows you to accurately control size
+  1. Percentage: box size relative to size of browser window or the box its in
+  1. ems: box size is based on the size of text within it. Used with percentage for measurements to create designs that are flexible accross devices with diff sized screens
+1. Limiting Width
+  1. Min-Width: properties that specify the smallest size a box can be displayed when browswer window is NARROW
+  1. Max-Width: properties that specify the largest size a box can be displayed when browswer window is WIDE
+1. Limiting Height
+  1. min-height : set min height limit of text inside box
+  1. max-height : set max height of text inside box
+1. Overflowing Content
+  1. overflow : tells browswer what to do if content contained in box is larger then the box
+    1. hidden - hides extran content that does not fit in the box
+    1. scroll - adds a scrollbar to see missing content
+1. Centering content
+  1. To center a box on the page/element it is in
+    1. set left-margin: auto; and right-margin: auto;
+    1. set width for the box (or it will take up the width of the page/element it is in)
+    1. set text-align: center;
+1. Change Inline/Block
+  1. display is used to turn inline to block and vice versa, also to hide an element from page
+    1. values
+      1. inline; cause block level to ACT like inline
+      1. block; cause inline element to ACT like block
+      1. inline-block; cause block level element to FLOW like inline element and retain its block-level features
+      1. none; hides an element from the page
+  1. visibility (values: hidden, visible) allows you to hide boxes from users but leaves its placeholder space where it would have been
+1. CSS3 
+  1. border-image (values: stretch repeat round) applies an image to the border of any box
+  1. box-shadow allows you to add a drop-shadow on the box 
+  1. border-radius allows you to create round corners on any box
+
+## Do you want to exit to the homepage? click on the following link to head back to the [homepage](../README.md)
+
+## OR do you want to return to the top section? [top of page](#blank)
