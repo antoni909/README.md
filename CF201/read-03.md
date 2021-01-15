@@ -1,4 +1,4 @@
-# Reading 03
+# Reading-03
 
 ## If you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
 
@@ -112,7 +112,7 @@ switch (expression) {
 
 ## Do you want to exit to the homepage? click on the following link to head back to the [homepage](../README.md)
 
-## OR do you want to return to the top section? [top of page](#blank)
+## OR do you want to return to the top section? [top of page](#Reading-03)
 
 ## HTML Chapter 03: Lists
 
@@ -190,4 +190,4 @@ switch (expression) {
 
 ## Do you want to exit to the homepage? click on the following link to head back to the [homepage](../README.md)
 
-## OR do you want to return to the top section? [top of page](#blank)
+## OR do you want to return to the top section? [top of page](#Reading-03)
