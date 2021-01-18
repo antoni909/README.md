@@ -49,3 +49,35 @@ Article: “6 Reasons for Pair Programming”
 ## If you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
 
 ## OR would you like to head to the top of the page?[top of page](#Reading-04)
+
+## HTML Chapter 15: Layout
+
+## Summary Type: Notes Outline Form
+
+### The chapter explores the following topics:
+
+- Find ways to position elements using NORMAL flow/RELATIVE positioning/ and floats
+
+- how different screen sizes affect design process
+
+- Difference between FIXED and LIQUID layouts
+
+- GRIDS make page layout proffessional
+
+### Concepts in Positioning Elements
+
+1. Block level Elements start a new line
+  -Parent/Containing Element is when block element sits INSIDE another block element then the outer element becomes the parent
+  -<h1>,<p>,<ul>,<ol>
+1. Inline level Elements flow in between surrounding txt
+  -<img>,<b>,<i>
+1. Controlling Position of Elements use position property in CSS to select from the following schemes
+  1. Normal Flow
+    -Default Behavior where Block Elemements appear in a new line
+  1. Relative Position
+    -This moves element from it normal spot to a select new position top,right,bottom,left
+  1. Absolute Position
+    -These Elements move as user scroll up/down screen
+    - Box Offset properties: indicatre where box shoul be positioned
+      -fixed poistioning
+      -floating elements
