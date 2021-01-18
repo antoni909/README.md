@@ -50,6 +50,50 @@ Article: “6 Reasons for Pair Programming”
 
 ## OR would you like to head to the top of the page?[top of page](#Reading-04)
 
+## HTML Chapter 04: Links
+
+## Summary Type:Notes Outline Form
+
+### The Chapter convers the following material
+
+- Creating links between pages
+
+- Links to other sites
+
+- email links
+
+- links that open new browswer windows
+
+### Links are created using the anchor element <a> and use the href attribute to enter a url (uniform resource locator). 
+
+### Directory structure which are folder and file structure. The directory structure consists of : The Structure, Relationship, Homepages of the directory
+
+1. Structure - top level folder is the ROOT which is the container for all folders and files in the directory
+  - Root Folder: contains index.html which is the homepage for entire site
+  - Subsequent subfolders contain index.html files and it acts as homepage for that subdirectory
+1. Relationships - uses the terminology of a family tree 
+  - Parent and Child, Grandparent and Grandchild
+
+### Relative URLs - used when linking pages to desired website. 
+
+  -Same Folder:  just use the file name
+  -Child Folder: name of child folder / file name
+  -GrandChild Folder: name of child folder / name of grandchild folder / file name
+  -Parent Folder: ../file name, means the folder outside current one into file name
+  -GrandParent Folder: ../../file name, means go outside one and one more into file name
+
+### Opening links in a new window
+
+- use the target attrubute as follows: target="_blank", which will open the link in a new window.
+
+### Linking to parts of the same page or another page
+
+- used inside the hreff attribute, the # symbol will send you to a specific part of the page and is used as follows: href="#id-attribute-name"
+
+## Do you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
+
+## OR would you like to head to the top of the page? [top of page](#Reading-04)
+
 ## HTML Chapter 15: Layout
 
 ## Summary Type: Notes Outline Form
@@ -128,3 +172,4 @@ Article: “6 Reasons for Pair Programming”
 ## Do you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
 
 ## OR would you like to head to the top of the page? [top of page](#Reading-04)
+
