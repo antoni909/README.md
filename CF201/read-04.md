@@ -122,5 +122,9 @@ Article: “6 Reasons for Pair Programming”
 1. Multiple Style sheets
   1. @import url (fake.com);
     - rule used to import css rules from another css page
-  1. link 
+  1. link
     - HTML element used to import css rules from css page
+
+## Do you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
+
+## OR would you like to head to the top of the page? [top of page](#Reading-04)
