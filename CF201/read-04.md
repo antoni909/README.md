@@ -173,3 +173,25 @@ Article: “6 Reasons for Pair Programming”
 
 ## OR would you like to head to the top of the page? [top of page](#Reading-04)
 
+## Reading : Article: “6 Reasons for Pair Programming”
+
+## Summary Type: Brief Summary
+
+### In pair programming, one dev is the driver and other dev is the navigator. Driver is the one coding and Navigator churns ideas/concepts that help both code together.
+
+### Pair Programming has six benefits
+
+1. Greater Efficiency
+  too long < increasede productivity
+1. Engaged Collaboration
+  find a solution together
+1. Learning from Fellow Students
+  different approaches to solving a problem, variable skills
+1. Social Skills
+  improved communication translates into enhancing communication skills
+1. Job Interview Readiness
+  practice coding for a potential interview
+1. Work Environment Readiness
+  prepare CF students for the developer culture
+
+## Exit to the homepage click on the following link to head back to the [homepage](../README.md)
