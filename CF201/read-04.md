@@ -81,3 +81,46 @@ Article: “6 Reasons for Pair Programming”
     - Box Offset properties: indicatre where box shoul be positioned
       -fixed poistioning
       -floating elements
+1. CSS rule for ELements
+  1. position:static & top/right/bottom/left: (pixels, percent, ems)
+    - normal flow of elements
+  1. position:relative  & top/right/bottom/left: (pixels, percent, ems)
+    - moves element in relation to where it would have been in normal flow
+  1. position:absolute  & top/right/bottom/left: (pixels, percent, ems) & width: (pixels, percent, ems)
+    - box is taken out of normal flow and will not affect position of other elements
+  1. position:fixed & top/right/bottom/left: (pixels, percent, ems) & width: 100% (pixels, percent, ems)
+    - positions the element relative to the browswer window
+  1. z-index: n;
+    - property that allows you to select which element sits on top of overlapping elements
+  1. float: (left,right, none); & width:n(pixels, percent, ems);
+    - allows you to take an element in normal flow and place it as far L/R of CONTAINING element as possible
+    - clear: left/right/both/none; 
+      - allows you to say no element should touch L/R side of a box
+
+1. Screen Resolution refers to the number of dots per inch
+1. Page Size: designers try and create pages around 960-1k pixels wide
+1. Fixed Width Layouts - do not change size as user inc/dec size of browswer window (use pixels)
+  1. How to set-up basic fixed layout using div elements as containers
+      - body element : fix width of page by 960 px, margin is auto
+      - main boxes: margin of 10px, to create space between them
+      - nav, feature, footer stretch to width of containing element same as body element 
+      - Number of Columns have width of 300 px and use float left allowing them to sit sidebyside
+1. Liquid Layouts - stretch and contract as useer inc/dec size of browser window (use percentage)
+  1. How to set-up basic liquid layout using div elements as containers and ids to target specific tags
+      - body element: width of page by 90% to leave rm in the  R/L sides of page
+      - Columns have margin: 1%, width: 31.3% (devided by number of columns in the page/body element)
+      - nav, feature, footer stretch to width of containing element same as body element and margin: 1% 
+1. Layout Grids: How items are positioned on a page
+  1. 960 Pixel Grid
+      - 960 px wide and 12 column grid, each column has margin: 10px
+      - example:
+        960
+        460 + 460
+        300 + 300 + 300
+        220 + 220 + 220 + 220
+        140 + 140 + 140 + 140 + 140 + 140
+1. Multiple Style sheets
+  1. @import url (fake.com);
+    - rule used to import css rules from another css page
+  1. link 
+    - HTML element used to import css rules from css page
