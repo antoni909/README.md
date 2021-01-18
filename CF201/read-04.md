@@ -1,4 +1,4 @@
-# Reading 04
+# Reading-04
 
 ## If you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
 
@@ -46,4 +46,6 @@ Article: “6 Reasons for Pair Programming”
     -use more memory than local vars
     -naming conflicts arise vs none with local vars
 
+## If you wish to exit to the homepage click on the following link to head back to the [homepage](../README.md)
 
+## OR would you like to head to the top of the page?[top of page](#Reading-04)
