@@ -8,7 +8,7 @@ CF 201 Reading Assignment 02[Reading 02](/CF201/read-02.md)
 
 [CF 201 Reading Assignment 03[Reading 03](/CF201/read-03.md)
 
-[CF 201 Reading Assignment 04](#)
+CF 201 Reading Assignment 04[Reading 04](/CF201/read-04.md)
 
 [CF 201 Reading Assignment 05](#)
 
