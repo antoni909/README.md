@@ -14,6 +14,62 @@ Chapter 5: “Images” (pp.94-125)
 Chapter 11: “Color” (pp.246-263)
 Chapter 12: “Text” (pp.264-299)
 
+## HTML Chapter 05: Images
+
+### Reasons to load images onto a page: logo, photograph, illustration, diagram, or chart.
+
+### How to add images to pages using HTML
+
+- Create a folder that will store your images used for your website
+- How to add images:
+  1. the img element is used to contain the img file and has the following 
+  attributes:
+
+    - src
+    - alt
+    - title
+    - height
+    - width
+
+- Where to place?
+
+  1. Before the p
+  
+  1. inside the start of the p
+
+  1. in the middle of the p
+
+- Where you place is important because browswers show HTML elements in 2 ways:
+
+  1. BLock Elements always appear on a new line (such as h1, p )
+
+  1. Inline Elements sit within a block level element and do NOT start on a new line (such as b, em, img)
+
+- 3 rules for creating images:
+  
+  1. Save images in the right format
+
+  1. Save images at the right size
+
+  1. Measure images in pixels
+
+- JPEG is for many different colors
+
+- GIF or PNG is for few colors or large areas with same color
+
+- Resolution is the number of pixels on the screen
+
+- Vector Images are resolution independent and can increase dimensions without affecting quality of the image
+
+### Choosing the Right Format
+
+### Optimizing Images for the Web
+
+
+
+
+
+
 ## Chapter 11: Color
 
 ### How to specify colors
@@ -30,10 +86,13 @@ Chapter 12: “Text” (pp.264-299)
     c. Medium Contrast- for long spans of time, improves readability
 
 ### Foreground color - specify the color of the Text inside an Element.
+
     - color: (values: rgb, hex code, color names);
-### Background color - if no background color specified color is transparent by default. 
+
+### Background color - if no background color specified color is transparent by default
 
     - background-color: (values: rgb, hex code, color names || hsl, hsla);
+
   1. Property - HSL Colors are Hue, Saturation, Lightness in this order
 
     - Hue: expressed as an angle 0-360
