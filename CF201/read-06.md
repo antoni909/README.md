@@ -44,3 +44,22 @@ Chapter 5: “Document Object Model” (pp.183-242)
 - can access properties or methods using dot notation or square brackets
 
   - in the dot notation, the name of the object is followed by a period then the name of the property or method you want to access
+
+## If you wish to exit to the homepage click on the following link  to the [homepage](../README.md) or to the [top of the page](#Reading-06)
+
+## Reading assignment is as follows
+
+Readings : Problem Domain, Objects, and the DOM
+Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+## Reading
+
+- Understanding the problem domain is the hardest part of programming
+
+From the Duckett JS book
+
+Chapter 3: “Object Literals” (pp.100-105)
+Chapter 5: “Document Object Model” (pp.183-242)
+
