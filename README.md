@@ -2,19 +2,19 @@
 
 ## Table of Contents for CF 201n26
 
-CF 201 Reading Assignment 01[Reading 01](/CF201/read-01.md)
+CF 201 Reading Assignment 01 [Reading 01](/CF201/read-01.md)
 
-CF 201 Reading Assignment 02[Reading 02](/CF201/read-02.md)
+CF 201 Reading Assignment 02 [Reading 02](/CF201/read-02.md)
 
-[CF 201 Reading Assignment 03[Reading 03](/CF201/read-03.md)
+[CF 201 Reading Assignment 03 [Reading 03](/CF201/read-03.md)
 
-CF 201 Reading Assignment 04[Reading 04](/CF201/read-04.md)
+CF 201 Reading Assignment 04 [Reading 04](/CF201/read-04.md)
 
-CF 201 Reading Assignment 05[Reading 05](/CF201/read-05.md)
+CF 201 Reading Assignment 05 [Reading 05](/CF201/read-05.md)
 
-[CF 201 Reading Assignment 06[Reading 06](/CF201/read-06.md)
+[CF 201 Reading Assignment 06 [Reading 06](/CF201/read-06.md)
 
-CF 201 Reading Assignment 07[Reading 07](/CF201/read-07.md)
+CF 201 Reading Assignment 07 [Reading 07](/CF201/read-07.md)
 
 [CF 201 Reading Assignment 08](#)
 
