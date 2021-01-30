@@ -12,6 +12,8 @@
 
   - Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
+- Domain Modeling Notes
+
 ## Chapter 6 - Tables
 
 1. How to Create Tables - they use grid formats where each block in a grid is called a table cell and structured as follows:
@@ -160,3 +162,58 @@ Note: Undefined and Null values do not have objects
 ## Do you wish to exit to the homepage? click on the following link to head back to the [homepage](../README.md)
 
 ## Or do you want to go to the [top of the page?](#Reading-07)
+
+### Domain Modeling Notes
+
+What is it? 
+create concept model that a solution to ONE problem
+Describes:
+Various entities and entity attributes/behaviors
+Constraints to Problem Domain
+Essentially this is Object-Oriented model
+Object Oriented model
+Entity stores data ---> properties
+Entity encapsulates behavior → methods
+Define Constructor Function & Initialize Properties
+Build ‘self-contained’ Objects
+With same attributes and behaviors 
+This way, if algorithm changes you only have to make small changes
+
+
+Example EpicFailVideo Constructor FUNCTION 
+var EpicFailVideo = function(epicRating, hasAnimals) {
+    this.epicRating = epicRating;
+    this.hasAnimals = hasAnimals;
+} //parameters stored inside this.epicRating, this.hasAnimals
+var parkourFail = new EpicFailVideo(7, false);
+var corgiFail = new EpicFailVideo(4, true);
+//when function called: parameters are stored in this.epicRating and this.hasAnimals
+//Data must be stored inside this.x to ensure other objects can access data
+console.log(parkourFail);
+console.log(corgiFail);
+// result
+EpicFailVideo {epicRating: 7, hasAnimals: false}
+epicRating: 7
+hasAnimals: false
+EpicFailVideo {epicRating: 4, hasAnimals: true}
+epicRating: 4
+hasAnimals: true
+Key understanding:
+the new keyword instantiates = creates an object
+constructor function initializes properties inside that object using this 
+object stored in a var for later/subsequent use
+Generate random numbers
+random number models random user behavior
+Prototype = an object’s stunt double..like a substitute for original object
+Methods can be added to constructor function prototype 
+How Objects Find Methods: 
+Object asked to run a method → 
+object cannot find method in own set of methods → 
+object searches Prototypes methods → 
+Object finds methods in Prototype →
+Object calls method and passes argument → 
+the method called runs and returns  
+When prototypes are shared among 2 or more objects, those objects execute the same code when that method is called from the prototype so shared code → prog consume < mem → good for all types device
+In Summary:
+When modeling ONE entity build self-contained objects with same attributes/behaviors → Model attributes with Constructor Function that define + initialize properties → Model behavior with one-task oriented methods → create instances with new keyword + call to constructor function → store that new object in a var to access its properties/methods from ‘outside’ → use this  var within methods to access object’s properties/methods from inside
+
