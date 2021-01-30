@@ -6,35 +6,60 @@
 
 - From the Duckett HTML book:
 
-  - Chapter 1: “Tables” (pp.126-145)
+  - Chapter 6: “Tables” (pp.126-145)
 
 - From the Duckett JS Book:
 
-  - Chapter 1: “Functions, Methods, and Objects” (pp.106-144)
+  - Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
+## Chapter 6 - Tables
+
+1. How to Create Tables - they use grid formats where each block in a grid is called a table cell and structured as follows:
+    1. Table tag - used to create a table startf
+    1. Width attribute - how wide some tables should be
+    1. Cell padding attr - add space inside each cell
+    1. Cells spacing attr - give space between each cell
+1. Thead tag - contents of the table headings go inside the ‘table heading’ tag
+1. Table head - similar to td tag but it is used for the heading for column or row
+    1. Scope attribute - indicates if column or row
+    1. Width attribute - how wide that column should be
+1. Table body - the main table body should fit inside this element
+1. Table row - indicates start of each row (left to right) 
+1. Table data - is the ‘cell’ in the row, cells run left to right
+    1. Colspan attribute - indicate how many columns that cell should run across
+    1. Rowspan attribute - cell spans down into multiple rows
+1. Table footer - content like totals, should fit inside the footer tag
+
+## Chapter 3 - Functions Methods and Objects
 
 1. Creating an Object: Constructor Notation
     1. How to create a blank object - use the **_new _** keyword and the **_Object()_** constructor, next you can add properties using dot notation, example:
-        1. var hotel = new Object();
-        1. hotel.name = 'Monarch';
-        1. hotel.rooms = 40;
-        1. hotel.booked = 1;
-        1. hote.checkAvail = function(){
-        1.     return this.rooms - this.booked;
-        1. };
+
+        var hotel = new Object();
+        hotel.name = 'Monarch';
+        hotel.rooms = 40;
+        hotel.booked = 1;
+        hote.checkAvail = function(){
+        return this.rooms - this.booked;
+        };
+
     1. To update/delete/clear value of properties
-        1. hotel.name = ‘MonarchTwo’’;
-        1. delete hotel.name;
-        1. hotel.name = ‘ ’;
+
+        hotel.name = ‘MonarchTwo’’;
+        delete hotel.name;
+        hotel.name = ‘ ’;
+
 1. Creating Multiple Objects: Constructor Notation - Use a function as template for creating objects. First letter is Uppercase in Constructor Function name
+
     1. Create template with objects properties/methods:
-        1. function **Hotel**(name,rooms,booked) {
-        1. hotel.name = name;
-        1. hotel.rooms = rooms;
-        1. hotel.booked = booked;
-        1. hotel.checkAvail = function(){
-        1.     return this.rooms - this.booked;
-        1.     }
-        1. }
+        function **Hotel**(name,rooms,booked) {
+        hotel.name = name;
+        hotel.rooms = rooms;
+        hotel.booked = booked;
+        hotel.checkAvail = function(){
+        return this.rooms - this.booked;
+            }
+        }
     1. Create instances (some version made from the original) using the constructor function using keyword: **_new _**and the object constructor **_ Object()_** _where properties of each object are given as arguments to the function, in this case Hotel._  
         1. Var parkHotel = **new** Hotel(‘Park’, 40, 1);
 1. RECAP: 1 Ways to Create Objects
@@ -63,13 +88,16 @@ If order is important use → Array
 1. Data can be stored in vars, arr, single or multiple objs
     1. Individual objects: 
 Order is not important for storing data, use object literal notation where properties /methods are given in curly braces:
-        1. var hotel = {
+
+        var hotel = {
           name: ‘jack’,  
           age: 40,  
           height: 1
           };
+
         1. To access this data use dot notation for example: 
 hotel.name //retrieves the string ‘jack’
+
     1. Multiple Objects:
         1. Objects created with constructors are best when many objects w/ similar functionality (multiple instances within a page) 
 
