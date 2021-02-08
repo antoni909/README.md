@@ -12,7 +12,7 @@
 
     Chapter 1: “Events” (pp.243-292)
 
-## JS Chapter 06: “Events” 
+## JS Chapter 06: “Events”
 
 Events- browsers way of monitoring user activity and the script responding to those events. In summary, interactions create events → events trigger code → code responds to user
 
