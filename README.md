@@ -26,7 +26,7 @@ CF 201 Reading Assignment 11 [Reading 11](/CF201/read-11.md)
 
 CF 201 Reading Assignment 12 [Reading 12](/CF201/read-12.md)
 
-[CF 201 Reading Assignment 13](#)
+CF 201 Reading Assignment 13 [Reading 13](/CF201/read-13.md)
 
 [CF 201 Reading Assignment 14](#)
 
@@ -51,6 +51,3 @@ CF 201 Reading Assignment 12 [Reading 12](/CF201/read-12.md)
 [What I learned in Class Day 07](/CF102/Read07.md)
 
 [What I learned in Class Day 08](/CF102/read08.md)
-
-## Nature Pic :D
-![pexels-photo-1785493](https://user-images.githubusercontent.com/71913098/101452693-f179fc80-38e2-11eb-8433-2db9fa643bcd.jpg)
