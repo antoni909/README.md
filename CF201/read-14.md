@@ -9,8 +9,7 @@
     What Google Learned From Its Quest to Build the Perfect Team
     Read the following articles and/or review the following examples on CSS animations:
 
-    Read this article on CSS Transforms
-    Read this article on CSS Transitions & Animations
+    Read this article on CSS Transforms, Transitions & Animations
     1 simple CSS3 transitions that will wow your users
     1 Buttons animated
     CSS3 Animations: Keyframes
