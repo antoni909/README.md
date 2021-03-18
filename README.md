@@ -1,4 +1,14 @@
-# Code 201 Reading Notes
+# Reading Notes
+
+## This Site is where I keep my notes for my reading assignments
+
+## Code 301 - Intermediate Software Development
+
+## Table of Contents for CF 301n21
+
+CF 301 Reading Assignment 01 [Reading 01](/CF301/read-01.md)
+
+## Code 201 - Foundations of Software Development
 
 ## Table of Contents for CF 201n26
 
@@ -6,13 +16,13 @@ CF 201 Reading Assignment 01 [Reading 01](/CF201/read-01.md)
 
 CF 201 Reading Assignment 02 [Reading 02](/CF201/read-02.md)
 
-[CF 201 Reading Assignment 03 [Reading 03](/CF201/read-03.md)
+CF 201 Reading Assignment 03 [Reading 03](/CF201/read-03.md)
 
 CF 201 Reading Assignment 04 [Reading 04](/CF201/read-04.md)
 
 CF 201 Reading Assignment 05 [Reading 05](/CF201/read-05.md)
 
-[CF 201 Reading Assignment 06 [Reading 06](/CF201/read-06.md)
+CF 201 Reading Assignment 06 [Reading 06](/CF201/read-06.md)
 
 CF 201 Reading Assignment 07 [Reading 07](/CF201/read-07.md)
 
@@ -30,7 +40,7 @@ CF 201 Reading Assignment 13 [Reading 13](/CF201/read-13.md)
 
 CF 201 Reading Assignment 14 [Reading 14](/CF201/read-14.md)
 
-[CF 201 Reading Assignment 15](#)
+## Code 102 - Intro to Software Development
 
 ## Table of Contents for CF 102n
 
