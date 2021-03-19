@@ -6,6 +6,8 @@
 
 ## Table of Contents for CF 301n21
 
+[ES6 Classes](/CF301/es6-classes)
+
 CF 301 Reading Assignment 01 [Reading 01](/CF301/read-01.md)
 
 ## Code 201 - Foundations of Software Development
