@@ -10,6 +10,9 @@
 
 CF 301 Reading Assignment 01 [Reading 01](/CF301/read-01.md)
 
+CF 301 Reading Assignment 02 [Reading 02](/CF301/read-02.md)
+
+
 ## Code 201 - Foundations of Software Development
 
 ## Table of Contents for CF 201n26
