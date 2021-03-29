@@ -12,7 +12,9 @@ CF 301 Reading Assignment 01 [Reading 01](/CF301/read-01.md)
 
 CF 301 Reading Assignment 02 [Reading 02](/CF301/read-02.md)
 
-CF 301 Reading Assignment 02 [Reading 03](/CF301/read-03.md)
+CF 301 Reading Assignment 03 [Reading 03](/CF301/read-03.md)
+
+CF 301 Reading Assignment 04 [Reading 04](/CF301/read-04.md)
 
 ## Code 201 - Foundations of Software Development
 
