@@ -4,7 +4,7 @@
 
 ## Code 301 - Intermediate Software Development
 
-## Table of Contents for CF 301n21
+## Table of Contents for CF 301n21 Reading Assignments
 
 [ES6 Classes](/CF301/es6-classes.md)
 
@@ -18,10 +18,11 @@ CF 301 Reading Assignment 04 [Reading 04](/CF301/read-04.md)
 
 CF 301 Reading Assignment 05 [Reading 05](/CF301/read-05.md)
 
-CF 301 Reading Assignment 06 [Reading 05](/CF301/read-06.md)
+CF 301 Reading Assignment 06 [Reading 06](/CF301/read-06.md)
 
-CF 301 Reading Assignment 07 [Reading 05](/CF301/read-07.md)
+CF 301 Reading Assignment 07 [Reading 07](/CF301/read-07.md)
 
+No. 08 [Regular Expressions, API's & Docs for SuperAgent](/CF301/read-08.md)
 
 ## Code 201 - Foundations of Software Development
 
