@@ -24,6 +24,10 @@ CF 301 Reading Assignment 07 [Reading 07](/CF301/read-07.md)
 
 No. 08 [Regular Expressions, API's & Docs for SuperAgent](/CF301/read-08.md)
 
+No. 09 [Regular Expressions, API's & Docs for SuperAgent](/CF301/read-09.md)
+
+No. 10 [In-Memory Storage](/CF301/read-10.md)
+
 ## Code 201 - Foundations of Software Development
 
 ## Table of Contents for CF 201n26
