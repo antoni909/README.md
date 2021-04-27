@@ -111,7 +111,6 @@ Not recommended
 Auth0 Docs
 [Auth0 React SDK for Single Page Apps](https://auth0.com/docs/libraries/auth0-react)
 
-
 ### [top of page](#-Read-11)
 
 ### [home page](/README.md)

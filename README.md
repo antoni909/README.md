@@ -30,6 +30,8 @@ No. 10 [In-Memory Storage](/CF301/read-10.md)
 
 No. 11 [Auth0 basics](/CF301/read-11.md)
 
+No. 12 [MongoDB basics](/CF301/read-12.md)
+
 ## Code 201 - Foundations of Software Development
 
 ## Table of Contents for CF 201n26
