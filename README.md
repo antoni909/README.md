@@ -34,6 +34,8 @@ No. 12 [MongoDB basics](/CF301/read-12.md)
 
 No. 13 [CRUD](/CF301/read-13.md)
 
+No. 13 [Inclusion in Tech](/CF301/read-14.md)
+
 ## Code 201 - Foundations of Software Development
 
 ## Table of Contents for CF 201n26
