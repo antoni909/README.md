@@ -2,7 +2,7 @@
 
 **GitHub is used by amateur and professionals alike to create, share, contribute software projects. It is considered an open source version control.**
 
-## Using Markdown 
+## Using Markdown
 
 **Markdown formatting is a lightweight syntax that is used for documentation and is great for focusing in on the "pure" content of a project. As opposed 
 to HTML/CSS which are heavier formatting methods that can also be used.**
