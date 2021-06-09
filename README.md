@@ -1,5 +1,7 @@
 # Reading Notes
 
+## various topics covered at CodeFellows during JS Coursework
+
 ## [Code 102 - Intro to Software Development](TOC.md)
 
 ## [Code 201 - Foundations of Software Development](TOC.md)
