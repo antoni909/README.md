@@ -2,6 +2,12 @@
 
 ## Return to [Home Page](README.md)
 
+## Code 401 - Advanced Software Development
+
+### Table of Contents for CF 401d48 Reading Assignments
+
+[Pre-Readings](/CF401/pre-readings.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Table of Contents for CF 301n21 Reading Assignments
