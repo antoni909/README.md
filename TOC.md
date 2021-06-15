@@ -7,7 +7,10 @@
 ### Table of Contents for CF 401d48 Reading Assignments
 
 [Pre-Readings](/CF401/pre-readings.md)
+
 [Node Ecosystem, TDD, CI/CD](/CF401/read01.md)
+
+[Express](/CF401/read02.md)
 
 ## Code 301 - Intermediate Software Development
 
