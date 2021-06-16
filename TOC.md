@@ -12,6 +12,8 @@
 
 [Express](/CF401/read02.md)
 
+[Express REST API](/CF401/read03.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Table of Contents for CF 301n21 Reading Assignments
